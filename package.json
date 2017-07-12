@@ -6,7 +6,7 @@
     "url": "https://github.com/brigadehub/brigadehub.git"
   },
   "engines": {
-    "node": ">=6 <7"
+    "node": "6.11.1"
   },
   "bin": {
     "brigadehub-suite": "make start"
